@@ -1,0 +1,110 @@
+.items a {
+    color: white;
+    text-decoration-line: underline;
+}
+.navbar-tapaz
+{
+    height: 45px;
+    background-color: #555 !important;
+}
+
+#contactinfo {
+    text-decoration-line: none;
+}
+.headrow {
+    height: 80px;
+    background-color: #ff6617;
+}
+.rowsearch {
+    height: 300px;
+    background-color: #ffd8a2;
+}
+.buttonsearch {
+    background-color: #ff6617 !important;
+    color: white !important;
+    border: #ff6617 !important;
+    width: 120px;
+    justify-content: space-around !important;
+}
+.column-list {
+    list-style-type: none;
+    text-decoration-line: underline;
+    padding: 50px;
+}
+.list-tapaz {
+    padding: 10px;
+}
+.column-list1 {
+    padding: 50px;
+    margin-left: 70px;
+}
+.h1-data {
+    color: #ff6617;
+
+}
+.span-data {
+    color: blue;
+}
+.statistics {
+    border-bottom:1px solid #e8e8e8;
+    background-color: #f7f6f6;
+    border-top: 2px solid #e8e8e8;
+
+}
+.navbartapaz {
+    color: white !important;
+}
+.icons1 {
+    font-size: 25px;
+}
+main {
+    background-color: #f7f6f6 !important;
+}
+.bold{
+    text-decoration-line: underline;
+}
+.items-search {
+    align-content: center !important;
+}
+.card1 {
+    height: 280px;
+    border:#e8e8e8 thin solid;
+    background-color: white;
+    margin-top: 30px;
+}
+.picture {
+    position: relative;
+    width: 100%;
+    height: 200px;
+}
+.picture img {
+    height: 100%;
+    width: 100%;
+}
+.price {
+    position: absolute;
+    color: white;
+    background-color: #ff6617;
+    height: 40px;
+    min-width: 30%;
+    top: 160px;
+    left: 0px;
+    font-size: 20px !important;
+}
+.logo {
+    position: absolute;
+    color: white;
+    top:5px;
+    left:5px;
+    font-size: 20px;
+}
+.nametag {
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 5px;
+    padding: 5px;
+}
+.datetimeinside {
+    margin-left: 5px;
+    font-size: 15px;
+}
