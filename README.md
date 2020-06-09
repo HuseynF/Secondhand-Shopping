@@ -1,1 +1,1 @@
-# Front page of second hand shopping web site
+# Front side of second hand shopping web site
